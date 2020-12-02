@@ -1,10 +1,15 @@
-body,html{
+
+/* home.css */
+
+
+body,
+html {
     display:flex;
     align-items: center;
     flex-direction: column;
 
 }
-#Nakisa-Title{
-    font-size: 80px
-    ;
+
+#Nakisa-Title {
+    font-size: 80px;
 }
